@@ -2,3 +2,4 @@ guitar
 violin
 clarinet
 flute
+cello
